@@ -1,0 +1,9 @@
+{
+  "name": "Vape Manager",
+  "id": "vm",
+  "main": "cn.ksmcbrigade.VM.Manager",
+  "function": "getKey",
+  "function_2": "runKey",
+  "gui_main": "cn.ksmcbrigade.VM.Manager",
+  "gui_function": "getScreen"
+}
